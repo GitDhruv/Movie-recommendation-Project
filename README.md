@@ -1,3 +1,2 @@
-#Let's begin!
-Testing Phase <br>
-Password change
+#Let's begin! <br>
+Testing Phase
